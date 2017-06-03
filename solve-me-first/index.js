@@ -1,3 +1,3 @@
 function solveMeFirst(a, b) {
-  a+b  
+  a+b
 }
